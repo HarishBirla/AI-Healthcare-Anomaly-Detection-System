@@ -6,7 +6,7 @@ The system allows users to input patient vitals such as heart rate, oxygen satur
 
 ## Features
 
-- User login system
+- User Authentication
 - Manual patient vital input
 - AI-based anomaly detection
 - Real-time condition analysis
