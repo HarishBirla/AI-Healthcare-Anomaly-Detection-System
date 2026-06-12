@@ -88,59 +88,7 @@ AI-Healthcare-Anomaly-Detection-System/
 
 ---
 
-# 🚀 Installation
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/HarishBirla/AI-Healthcare-Anomaly-Detection-System.git
-
-cd AI-Healthcare-Anomaly-Detection-System
-```
-
----
-
-## Create Virtual Environment
-
-### Windows
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-### Linux / macOS
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Project
-
-```bash
-python app.py
-```
-
-The application will start on:
-
-```
-http://127.0.0.1:5000
-```
-
-Open the above URL in your browser.
-
----
+ 
 
 # 🧠 How It Works
 
@@ -203,33 +151,7 @@ Display Result
 
 ---
 
-# 📸 Screenshots
-
-## 🔐 Login Page
-
-![Login Page](screenshots/login.png)
-
----
-
-## 📊 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## 🤖 Prediction Result
-
-![Prediction](screenshots/prediction.png)
-
----
-
-# 📦 Requirements
-
-Install all required packages using:
-
-```bash
-pip install -r requirements.txt
-```
+ 
 
 Major libraries used:
 
@@ -288,34 +210,7 @@ Major libraries used:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push to GitHub
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
+ 
 # 📚 Learning Outcomes
 
 This project demonstrates:
